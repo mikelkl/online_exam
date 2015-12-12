@@ -1,0 +1,1 @@
+<?php {"0":"tch_name","1":"tch_email","2":"tch_password","3":"tch_school","pri":"tch_id"}yes

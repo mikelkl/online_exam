@@ -1,0 +1,1 @@
+<?php {"0":"stu_name","1":"stu_number","2":"stu_email","3":"stu_password","pri":"stu_id","4":"stu_school"}yes

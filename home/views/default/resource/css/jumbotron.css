@@ -1,0 +1,24 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+	background: linear-gradient(#563D7C, #6F5499); /* 标准的语法 */
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#563D7C,endColorstr=#6F5499);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#563D7C,endColorstr=#6F5499)";
+	color: #FFFFFF;
+}
+.navbar li:hover .dropdown-menu {
+ 	display: block;
+ }
+#intro1,#intro2 {
+	border-right:1px solid #AAAAAA;
+}
+#emailTips,#pass1Tips,#stuPass2Tips,#nameTips,#schoolTips,#stuIdTips{
+    margin-left: 5px;
+    font-size: 12px;
+}
+label{
+    width: 80px;
+}

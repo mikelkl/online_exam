@@ -1,0 +1,172 @@
+[16-Jun-2015 16:00:26 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[16-Jun-2015 16:00:26 PRC] PHP Stack trace:
+[16-Jun-2015 16:00:26 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[16-Jun-2015 16:00:26 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[16-Jun-2015 16:00:26 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[16-Jun-2015 16:00:26 PRC] PHP   4. ExamAction->errorShow() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[16-Jun-2015 16:00:26 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:252
+[16-Jun-2015 16:00:26 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[16-Jun-2015 16:00:26 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[16-Jun-2015 16:00:26 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[16-Jun-2015 16:00:26 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[16-Jun-2015 16:00:26 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[16-Jun-2015 16:00:26 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[16-Jun-2015 16:11:58 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[16-Jun-2015 16:11:58 PRC] PHP Stack trace:
+[16-Jun-2015 16:11:58 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[16-Jun-2015 16:11:58 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[16-Jun-2015 16:11:58 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[16-Jun-2015 16:11:58 PRC] PHP   4. UserAction->stuExamList() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[16-Jun-2015 16:11:58 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\useraction.class.php:50
+[16-Jun-2015 16:11:58 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[16-Jun-2015 16:11:58 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[16-Jun-2015 16:11:58 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[16-Jun-2015 16:11:58 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[16-Jun-2015 16:11:58 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[16-Jun-2015 16:11:58 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[16-Jun-2015 21:44:50 PRC] PHP Warning:  file_get_contents(./runtime/_ilife_sns_index.php): failed to open stream: No such file or directory in D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php on line 6
+[16-Jun-2015 21:44:50 PRC] PHP Stack trace:
+[16-Jun-2015 21:44:50 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[16-Jun-2015 21:44:50 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[16-Jun-2015 21:44:50 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[16-Jun-2015 21:44:50 PRC] PHP   4. IndexAction->index() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[16-Jun-2015 21:44:50 PRC] PHP   5. file_get_contents() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php:6
+[16-Jun-2015 22:10:50 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[16-Jun-2015 22:10:50 PRC] PHP Stack trace:
+[16-Jun-2015 22:10:50 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[16-Jun-2015 22:10:50 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[16-Jun-2015 22:10:50 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[16-Jun-2015 22:10:50 PRC] PHP   4. UserAction->stuCourseList() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[16-Jun-2015 22:10:50 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\useraction.class.php:35
+[16-Jun-2015 22:10:50 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[16-Jun-2015 22:10:50 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[16-Jun-2015 22:10:50 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[16-Jun-2015 22:10:50 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[16-Jun-2015 22:10:50 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[16-Jun-2015 22:10:50 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[16-Jun-2015 22:15:02 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[16-Jun-2015 22:15:02 PRC] PHP Stack trace:
+[16-Jun-2015 22:15:02 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[16-Jun-2015 22:15:02 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[16-Jun-2015 22:15:02 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[16-Jun-2015 22:15:02 PRC] PHP   4. UserAction->stuExamList() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[16-Jun-2015 22:15:02 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\useraction.class.php:50
+[16-Jun-2015 22:15:02 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[16-Jun-2015 22:15:02 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[16-Jun-2015 22:15:02 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[16-Jun-2015 22:15:02 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[16-Jun-2015 22:15:02 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[16-Jun-2015 22:15:02 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[16-Jun-2015 22:30:30 PRC] PHP Warning:  file_get_contents(./runtime/_ilife_sns_index.php): failed to open stream: No such file or directory in D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php on line 6
+[16-Jun-2015 22:30:30 PRC] PHP Stack trace:
+[16-Jun-2015 22:30:30 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[16-Jun-2015 22:30:30 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[16-Jun-2015 22:30:30 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[16-Jun-2015 22:30:30 PRC] PHP   4. IndexAction->index() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[16-Jun-2015 22:30:30 PRC] PHP   5. file_get_contents() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php:6
+[17-Jun-2015 12:50:29 PRC] PHP Warning:  file_get_contents(./runtime/_ilife_sns_index.php): failed to open stream: No such file or directory in D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php on line 6
+[17-Jun-2015 12:50:29 PRC] PHP Stack trace:
+[17-Jun-2015 12:50:29 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 12:50:29 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 12:50:29 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 12:50:29 PRC] PHP   4. IndexAction->index() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 12:50:29 PRC] PHP   5. file_get_contents() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php:6
+[17-Jun-2015 14:48:43 PRC] PHP Warning:  file_get_contents(./runtime/_ilife_sns_index.php): failed to open stream: No such file or directory in D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php on line 6
+[17-Jun-2015 14:48:43 PRC] PHP Stack trace:
+[17-Jun-2015 14:48:43 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 14:48:43 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 14:48:43 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 14:48:43 PRC] PHP   4. IndexAction->index() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 14:48:43 PRC] PHP   5. file_get_contents() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php:6
+[17-Jun-2015 15:55:28 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[17-Jun-2015 15:55:28 PRC] PHP Stack trace:
+[17-Jun-2015 15:55:28 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 15:55:28 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 15:55:28 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 15:55:28 PRC] PHP   4. ExamAction->examMain() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 15:55:28 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:68
+[17-Jun-2015 15:55:28 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[17-Jun-2015 15:55:28 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[17-Jun-2015 15:55:28 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[17-Jun-2015 15:55:28 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[17-Jun-2015 15:55:28 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[17-Jun-2015 15:55:28 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[17-Jun-2015 15:55:54 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[17-Jun-2015 15:55:54 PRC] PHP Stack trace:
+[17-Jun-2015 15:55:54 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 15:55:54 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 15:55:54 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 15:55:54 PRC] PHP   4. ExamAction->examMain() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 15:55:54 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:68
+[17-Jun-2015 15:55:54 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[17-Jun-2015 15:55:54 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[17-Jun-2015 15:55:54 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[17-Jun-2015 15:55:54 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[17-Jun-2015 15:55:54 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[17-Jun-2015 15:55:54 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[17-Jun-2015 15:56:02 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[17-Jun-2015 15:56:02 PRC] PHP Stack trace:
+[17-Jun-2015 15:56:02 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 15:56:02 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 15:56:02 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 15:56:02 PRC] PHP   4. ExamAction->examMain() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 15:56:02 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:68
+[17-Jun-2015 15:56:02 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[17-Jun-2015 15:56:02 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[17-Jun-2015 15:56:02 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[17-Jun-2015 15:56:02 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[17-Jun-2015 15:56:02 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[17-Jun-2015 15:56:02 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[17-Jun-2015 15:56:12 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[17-Jun-2015 15:56:12 PRC] PHP Stack trace:
+[17-Jun-2015 15:56:12 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 15:56:12 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 15:56:12 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 15:56:12 PRC] PHP   4. ExamAction->examMain() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 15:56:12 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:68
+[17-Jun-2015 15:56:12 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[17-Jun-2015 15:56:12 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[17-Jun-2015 15:56:12 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[17-Jun-2015 15:56:12 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[17-Jun-2015 15:56:12 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[17-Jun-2015 15:56:12 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[17-Jun-2015 15:56:19 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[17-Jun-2015 15:56:19 PRC] PHP Stack trace:
+[17-Jun-2015 15:56:19 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 15:56:19 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 15:56:19 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 15:56:19 PRC] PHP   4. ExamAction->examMain() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 15:56:19 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:68
+[17-Jun-2015 15:56:19 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[17-Jun-2015 15:56:19 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[17-Jun-2015 15:56:19 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[17-Jun-2015 15:56:19 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[17-Jun-2015 15:56:19 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[17-Jun-2015 15:56:19 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[17-Jun-2015 15:56:28 PRC] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php on line 270
+[17-Jun-2015 15:56:28 PRC] PHP Stack trace:
+[17-Jun-2015 15:56:28 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[17-Jun-2015 15:56:28 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[17-Jun-2015 15:56:28 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[17-Jun-2015 15:56:28 PRC] PHP   4. ExamAction->examMain() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[17-Jun-2015 15:56:28 PRC] PHP   5. Mytpl->display() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\examaction.class.php:68
+[17-Jun-2015 15:56:28 PRC] PHP   6. Smarty->display() D:\wamp\www\online_exam\brophp\bases\mytpl.class.php:51
+[17-Jun-2015 15:56:28 PRC] PHP   7. Smarty->fetch() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1108
+[17-Jun-2015 15:56:28 PRC] PHP   8. Smarty->_compile_resource() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1256
+[17-Jun-2015 15:56:28 PRC] PHP   9. Smarty->_compile_source() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1424
+[17-Jun-2015 15:56:28 PRC] PHP  10. Smarty_Compiler->_compile_file() D:\wamp\www\online_exam\brophp\libs\Smarty.class.php:1491
+[17-Jun-2015 15:56:28 PRC] PHP  11. preg_replace() D:\wamp\www\online_exam\brophp\libs\Smarty_Compiler.class.php:270
+[02-Dec-2015 20:58:09 PRC] PHP Warning:  file_get_contents(./runtime/_ilife_sns_index.php): failed to open stream: No such file or directory in D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php on line 6
+[02-Dec-2015 20:58:09 PRC] PHP Stack trace:
+[02-Dec-2015 20:58:09 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[02-Dec-2015 20:58:09 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[02-Dec-2015 20:58:09 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[02-Dec-2015 20:58:09 PRC] PHP   4. IndexAction->index() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[02-Dec-2015 20:58:09 PRC] PHP   5. file_get_contents() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php:6
+[02-Dec-2015 20:58:56 PRC] PHP Warning:  file_get_contents(./runtime/_ilife_sns_index.php): failed to open stream: No such file or directory in D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php on line 6
+[02-Dec-2015 20:58:56 PRC] PHP Stack trace:
+[02-Dec-2015 20:58:56 PRC] PHP   1. {main}() D:\wamp\www\online_exam\index.php:0
+[02-Dec-2015 20:58:56 PRC] PHP   2. require() D:\wamp\www\online_exam\index.php:9
+[02-Dec-2015 20:58:56 PRC] PHP   3. Action->run() D:\wamp\www\online_exam\brophp\brophp.php:145
+[02-Dec-2015 20:58:56 PRC] PHP   4. IndexAction->index() D:\wamp\www\online_exam\brophp\bases\action.class.php:30
+[02-Dec-2015 20:58:56 PRC] PHP   5. file_get_contents() D:\wamp\www\online_exam\runtime\controls\online_exam_index_php\indexaction.class.php:6
